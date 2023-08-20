@@ -18,9 +18,11 @@ errors!
 If you get errors downloading any packages:
 1.Check your internett acsess and run diagnostics like "ping google.com" in your terminal 
 -1.check your firewall and make a rule to allow the program search up how to do so, I am not your mom!
--2.IF THIS DOES NOT WORK PLEASE OPEN A ISSUE WHEN I MAKE A ISSUE TAB
+-2.IF THIS DOES NOT WORK PLEASE OPEN A ISSUE
 
 2.if you get errors while downloading the padges most likely the padge in question does not aloow to be downloaded so long thats the errors you get just know nothing is wrong if not create an issue
+
+3.any another issues make an issue in the issue tab! wow that was alot of issues in one sentance
 
 -----------------
 
